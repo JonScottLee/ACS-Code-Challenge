@@ -2,7 +2,7 @@
 1. Clone this repository.
 2. Complete exercises below by creating/modifying code in their respective folders. You can architect the project how you like re: folder structure, how you name your files, etc. Use your best judgement as a developer.
 3. Push the code to your own public Git repository, and send the link to your recruiter / rep.
-
+4. Pretend your code is going into a PRODUCTION environment. Do not rush these exercises or cut corners in the name of speed. We aren't interested in the code you can write under pressure; we are interested in the best code that you can write.
 ***
 
 ## Exercise 1: Consuming RESTful API data
